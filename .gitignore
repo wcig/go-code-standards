@@ -2,6 +2,8 @@
 ### Go template
 # idea
 .idea
+.vscode
+.DS_Store
 
 # Binaries for programs and plugins
 *.exe
